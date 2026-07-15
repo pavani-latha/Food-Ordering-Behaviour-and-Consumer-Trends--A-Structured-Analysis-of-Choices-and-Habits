@@ -3,8 +3,7 @@
 An interactive **Tableau Dashboard** built to analyze food delivery data by exploring customer behavior, meal preferences, city-wise order trends, revenue contribution, and delivery performance.
 
 🔗 **Live Dashboard:**  
-https://public.tableau.com/views/Story_17833558926140/Dashboard1?:showVizHome=no
-
+https://public.tableau.com/app/profile/pavani.latha.pediredla/viz/FoodOrderStory_17837765627210/Story1
 
 ---
 
